@@ -1,7 +1,5 @@
-# G-chat-mail-converse
+## G-chat-mail-converse
 An llm based web app to chat and ask questions about all your emails
-
-## 📨 Chat with Gmail Inbox 
 
 LLM app with RAG to chat with Gmail in just 30 lines of Python Code. The app uses Retrieval Augmented Generation (RAG) to provide accurate answers to questions based on the content of your Gmail Inbox.
 
